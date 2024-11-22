@@ -19,7 +19,7 @@ The best tweak for YouTube Music on iOS.
 
 * **Sideloading:**
   A compiled version is available on the unoffical website by me:  
-  [YTMusicUltimate Release Website](https://danlogit.github.io/YTMusicUltimate/compiled).
+  [YTMusicUltimate Release Website](https://danlogit.github.io/YTMusicUltimate/compiled/index.html).
 
   If you want to build the IPA yourself, follow these steps:
 
